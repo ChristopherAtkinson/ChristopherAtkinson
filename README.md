@@ -13,7 +13,7 @@
 
 <h3 align="center">Senior Software Engineer with expertise in modern C++, and Qt Framework.</h3>
 
-<p align="center">Senior Software Engineer | Optibrium Ltd, Cambridge, UK</p>
+<p align="center">Senior Software Engineer</p>
 
 > [!NOTE]
 > Let's connect and collaborate! Feel free to reach out to me on LinkedIn to discuss projects, share ideas, or explore potential collaborations. I look forward to connecting with fellow engineers and enthusiasts in the tech community!
