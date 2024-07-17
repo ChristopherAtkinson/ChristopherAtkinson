@@ -39,5 +39,6 @@
       imaging.
     </p>
     <h3>University of Hull, Hull, UK | 2014 -> 2018</h3>
+    <p>Master of Engineering | Computer Science</p>
   </p>
 </div>
